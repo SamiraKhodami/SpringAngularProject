@@ -1,0 +1,29 @@
+body, #mainWrapper {
+    height: 70%;
+    background-color: rgb(245, 245, 245);
+}
+
+body, .form-control {
+    font-size: 12px !important;
+}
+
+.has-error {
+    color: red;
+}
+
+.searchcontainer {
+    padding: 40px;
+}
+
+.tablecontainer {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.dialogcontainer {
+    padding: 40px;
+}
+
+.btn-space {
+    margin-right: 5px;
+}
